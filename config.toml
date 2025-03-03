@@ -34,7 +34,7 @@ background_color = "orange"
 logo_text = "tmpvec"
 
 # The logo link - defaults to base_url.
-logo_home_link = "$BASE_URL/about"
+logo_home_link = "/about"
 
 menu_items = [
     # each of these is optional, name and url are required
