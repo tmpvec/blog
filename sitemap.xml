@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tmpvec.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/archive/first/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/contact/</loc>
+    </url>
+    <url>
+        <loc>https://tmpvec.github.io/projects/</loc>
+    </url>
+</urlset>
